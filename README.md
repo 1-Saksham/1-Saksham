@@ -1,9 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saksham.</h2>
-
-
-###
-
-<img align="right" height="150" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif"  />
+<h2 align="left">👋 Hi! My name is Saksham.</h2>
 
 ###
 
@@ -28,8 +23,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://tse2.mm.bing.net/th?id=OIP.j3oo5i-CQrJkyKObqL6iYQHaEK&pid=Api&P=0&h=180" alt="Snake animation" />
-
-###
